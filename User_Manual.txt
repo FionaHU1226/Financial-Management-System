@@ -1,0 +1,14 @@
+1. Install the dependencies in the file "requirements.txt"
+
+If you are using the Python IDE "PyCharm":
+Click the "Python Packages" button in the lower left corner, enter the dependency name,
+and follow PyCharm's prompts to install it.
+
+
+2. Run the Python file "run.py"
+
+3. A web page link (URL) will be popped up in the terminal. Copy the link and paste it into the browser.
+
+* default admin account:
+email: admin@admin.com
+password: 1234
